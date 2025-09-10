@@ -1,4 +1,4 @@
 # treehouse
 A quick program I made to figure out the title and release date of every one of Andy Griffith and Terry Denton's Treehouse books from now until infinity.
 # instructions
-Download and run the .py file with Python
+Download and run the .py file with Python. No extra modules required.
